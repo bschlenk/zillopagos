@@ -1,3 +1,7 @@
+<div align="center">
+    <img max-height="50vh" src="logo.png">
+</div>
+
 # zillopagos
 
 An experimental Zillow property finder helper tool.
